@@ -14,4 +14,17 @@ public class Jogo {
     public String getNome() {
         return nome;
     }
+    public String getPlataforma() {
+        return plataforma;
+    }
+    public String getDataZerado () {
+        return dataZerado;
+    }
+    public int getNota () {
+        return nota;
+    }
+    public String getDificuldade () {
+        return dificuldade;
+    }
+
 }
