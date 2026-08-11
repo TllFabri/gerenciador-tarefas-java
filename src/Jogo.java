@@ -26,5 +26,19 @@ public class Jogo {
     public String getDificuldade () {
         return dificuldade;
     }
-
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+    public void setPlataforma(String plataforma) {
+        this.plataforma = plataforma;
+    }
+    public void setDataZerado(String dataZerado) {
+        this.dataZerado = dataZerado;
+    }
+    public void setNota(int nota) {
+        this.nota = nota;
+    }
+    public void setDificuldade(String dificuldade) {
+        this.dificuldade = dificuldade;
+    }
 }
