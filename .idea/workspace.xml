@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36bb4670-9477-485b-af28-84af96a6481d" name="Changes" comment="Getter">
+    <list default="true" id="36bb4670-9477-485b-af28-84af96a6481d" name="Changes" comment="Setters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786405219121</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Setters">
+      <option name="closed" value="true" />
+      <created>1786406622557</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1786406622557</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +133,7 @@
     <MESSAGE value="Tarefa.java" />
     <MESSAGE value="Jogo.java" />
     <MESSAGE value="Getter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getter" />
+    <MESSAGE value="Setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setters" />
   </component>
 </project>
